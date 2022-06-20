@@ -3,11 +3,8 @@
 An iOS app that shows instant currency rates.
 
 ## Features
-* Counting 100 push up daily
-* If you commit and do 100 pushes for 30 days, you complete the challenge
-* The app remembers where you left 
-* Sends local notifications
-* Touch with your nose to the screen, and the counter will go up
+* 
+* 
 
 ## Technologies
 * Swift 5
